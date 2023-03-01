@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{03A9DDD4-D1D0-42FA-84FC-37A9766F38A8}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44985.7385069444" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="608" objectBottom="408" clickPointX="-380" clickPointY="-161" imageFileName="tcvi4511684061466002.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44985.7385416667" objectName="Aliases.Orders.OrderForm.Group.Customer" objectLeft="115" objectTop="194" objectRight="467" objectBottom="214" clickPointX="338" clickPointY="203" imageFileName="tcvi4511712651466004.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44985.7385416667" objectName="Aliases.Orders.OrderForm.Group.Customer" objectLeft="115" objectTop="194" objectRight="467" objectBottom="214" clickPointX="-440" clickPointY="-126" imageFileName="tcvi4511716251466005.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44985.7385648148" objectName="Aliases.Orders.OrderForm.ButtonOK" objectLeft="323" objectTop="442" objectRight="395" objectBottom="466" clickPointX="333" clickPointY="445" imageFileName="tcvi4511733901466006.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44985.738587963" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="608" objectBottom="408" clickPointX="-1" clickPointY="-1" imageFileName="tcvi4511748121466007.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44985.7386574074" objectName="Aliases.Orders.dlgConfirmation.btnNo2" objectLeft="113" objectTop="114" objectRight="188" objectBottom="137" clickPointX="180" clickPointY="122" imageFileName="tcvi4511812031466009.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
